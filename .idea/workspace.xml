@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="" />
+    <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/ex002.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2u36hfyMgMmU11aXyficyJA9SvH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,6 +38,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
