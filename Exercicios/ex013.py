@@ -1,4 +1,4 @@
-#
+#Faça um algoritmo que mostre o salário de um funcionário e seu novo sálario com aumento de 15%
 
 salario = float(input("Qual é o sálario do funcionário: "))
 novoSalario = salario + (salario * 15 / 100)
