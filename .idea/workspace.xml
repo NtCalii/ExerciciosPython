@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="" />
+    <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex044.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex045.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +76,11 @@
     "Python.ex038.executor": "Run",
     "Python.ex039.executor": "Run",
     "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
     "Python.ex23.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
