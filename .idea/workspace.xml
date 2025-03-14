@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_21_40/ex036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_21_40/ex036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_21_40/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_21_40/ex037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_21_40/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_21_40/ex038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_21_40/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_21_40/ex039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_21_40/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_21_40/ex040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
