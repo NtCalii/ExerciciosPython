@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios_41_60/ex056.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex052.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex054.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex055.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex055.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex056.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex056.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,11 @@
     "Python.ex049.executor": "Run",
     "Python.ex050.executor": "Run",
     "Python.ex051.executor": "Run",
+    "Python.ex052.executor": "Run",
+    "Python.ex053.executor": "Run",
+    "Python.ex054.executor": "Run",
+    "Python.ex055.executor": "Run",
+    "Python.ex056.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.extra.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
