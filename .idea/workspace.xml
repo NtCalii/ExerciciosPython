@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios_61_80/ex061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_61_80/ex062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_61_80/ex063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_61_80/ex064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_61_80/ex065.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex057.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex058.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex058.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex059.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_41_60/ex060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_41_60/ex060.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +96,11 @@
     "Python.ex058.executor": "Run",
     "Python.ex059.executor": "Run",
     "Python.ex060.executor": "Run",
+    "Python.ex061.executor": "Run",
+    "Python.ex062.executor": "Run",
+    "Python.ex063.executor": "Run",
+    "Python.ex064.executor": "Run",
+    "Python.ex065.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.extra.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
