@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="" />
+    <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_81_100/ex081.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_81_100/ex081.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_81_100/ex082.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_81_100/ex082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_81_100/ex083.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_81_100/ex083.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +114,8 @@
     "Python.ex078.executor": "Run",
     "Python.ex079.executor": "Run",
     "Python.ex080.executor": "Debug",
+    "Python.ex081.executor": "Run",
+    "Python.ex082.executor": "Debug",
     "Python.ex23.executor": "Run",
     "Python.extra.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
