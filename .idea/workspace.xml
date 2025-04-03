@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex109.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex109.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex110.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/moeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,8 +140,10 @@
     "Python.ex106.executor": "Run",
     "Python.ex107.executor": "Run",
     "Python.ex108.executor": "Run",
+    "Python.ex110.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.extra.executor": "Run",
+    "Python.moeda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
