@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios_100_15/moeda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex107.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex107.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex108.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex108.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/moeda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +139,7 @@
     "Python.ex105.executor": "Run",
     "Python.ex106.executor": "Run",
     "Python.ex107.executor": "Run",
+    "Python.ex108.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.extra.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
