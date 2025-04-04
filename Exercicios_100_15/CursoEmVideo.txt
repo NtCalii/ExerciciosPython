@@ -1,0 +1,4 @@
+Nathan; 19
+Jeferson; 47
+Priscila; 43
+Felipe; 9

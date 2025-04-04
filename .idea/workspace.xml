@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercicios_100_15/CursoEmVideo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios_100_15/menus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex113.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex113.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex114.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex114.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios_100_15/ex115.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios_100_15/ex115.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,8 +144,10 @@
     "Python.ex110.executor": "Run",
     "Python.ex113.executor": "Run",
     "Python.ex114.executor": "Run",
+    "Python.ex115.executor": "Run",
     "Python.ex23.executor": "Run",
     "Python.extra.executor": "Run",
+    "Python.menus.executor": "Run",
     "Python.moeda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
