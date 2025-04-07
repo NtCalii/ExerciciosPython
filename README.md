@@ -45,6 +45,18 @@ Os exercícios abrangem diversos tópicos, incluindo:
 - Manipulação de textos
 - Análise de dados simples
 
+🔧 **Programação Orientada a Objetos (POO)**
+
+O curso do programadorLhama também é um introtutório a os principais conceitos de POO em Python, com exemplos práticos e explicações didáticas. Os exercícios dessa seção ajudam a fixar a lógica e a estrutura da orientação a objetos.
+
+- **Classes e Objetos**
+- **Atributos de instância e de classe**
+- **Métodos (incluindo `__init__`)**
+- **Encapsulamento**
+- **Herança**
+- **Polimorfismo**
+- **Métodos especiais** (como `__str__`, `__len__`, etc.)
+
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
@@ -62,5 +74,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 Feito por **[Nathan Caliani](https://github.com/NtCalii)**  
 
 🙏 Agradecimentos especiais ao professor [Gustavo Guanabara](https://github.com/gustavoguanabara) pelo excelente conteúdo!
+<br>
+🙏 Agradecimentos especiais ao professor [ProgramadorLhama](https://github.com/programadorLhama) pelo excelente conteúdo!
 
 </div>
