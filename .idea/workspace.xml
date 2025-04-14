@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula10_injecao_dependencia/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula10_injecao_dependencia/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula9_principio_aberto_fechado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula9_principio_aberto_fechado/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula11_exercicios_injecao_dependencia/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula11_exercicios_injecao_dependencia/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula12_heranca/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula12_heranca/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
