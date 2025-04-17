@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a02d7da-c941-4289-9c35-695c439b7271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula15_substituicao_liskov/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula15_substituicao_liskov/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula15_substituicao_liskov/run2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula16_aulas_resumo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_teste_exercicios/Aula16_aulas_resumo/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
